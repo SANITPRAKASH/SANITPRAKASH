@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0qE_b5-Q6LnnUQwCSXTZhpr29sKTFXhSLug&s](https://www.google.com/imgres?q=software%20development%20gif&imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fhd%2F06f21a161921919.63cd7887d0a70.gif&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&docid=t8xwAZxnLp10NM&tbnid=fxK5tONPokeGrM&vet=12ahUKEwiak7fKiJuLAxXhSWwGHUaNK7kQM3oECHwQAA..i&w=1000&h=756&hcb=2&ved=2ahUKEwiak7fKiJuLAxXhSWwGHUaNK7kQM3oECHwQAA)"  />
+  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhVpdY3T94f4x7IP6hu7DAI_CMzm6syA1Gw&s"  />
 </div>
 
 ---
