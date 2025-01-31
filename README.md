@@ -78,10 +78,9 @@
 ---
 
 ### **📌 Featured Projects**
-- **🍔 Food Ordering & Delivery App**: Built with React, Node.js, and MongoDB. [View Project](#)
-- **📱 Postify - Social Media Backend**: Scalable backend with RESTful APIs and real-time messaging. [View Project](#)
-- **🎥 Video Conferencing App**: Real-time video communication using WebRTC and Socket.IO. [View Project](#)
-
+- **🍔 Food Ordering & Delivery App**: Built with React, Node.js, and MongoDB. 
+- **📱 Postify - Social Media Backend**: Scalable backend with RESTful APIs and real-time messaging. 
+- **🎥 Video Conferencing App**: Real-time video communication using WebRTC and Socket.IO. 
 
 
 <div align="center">
