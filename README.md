@@ -26,7 +26,7 @@
 
 #### **🚀 Frameworks & Libraries**
 - **Frontend**: React.js, Next.js, Tailwind CSS, MUI
-- **Backend**: Node.js, Express.js, Prisma, REST APIs, WebSockets
+- **Backend**: Node.js, Express.js, Prisma, REST APIs, Supabase, WebSockets
 - **Mobile**: React Native, Android Development
 
 #### **🛢️ Databases**
@@ -73,7 +73,7 @@
 ### **📌 Featured Projects**
 - **📝 AI-Powered Form Generator (SaaS)**
   - AI-driven form automation with Prisma ORM & PostgreSQL.
-  - **Tech Stack**: Next.js, Node.js, PostgreSQL, Google Gemini AI, Prisma,Razorpay API.
+  - **Tech Stack**: Next.js, Node.js, PostgreSQL, Google Gemini AI, Supabase , Prisma,Razorpay API.
 
 - **🍔 Food Ordering & Delivery App (100+ users)**
   - Shopping cart, live tracking, Razorpay payment integration.
