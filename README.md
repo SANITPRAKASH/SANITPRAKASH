@@ -6,40 +6,41 @@
 
 <div align="center">
   <h1>👋 Hello, I'm Sanit Prakash</h1>
-  <h3>🚀 Full Stack Developer | AI/ML Enthusiast</h3>
+  <h3>🚀 Software Engineer | Full Stack Developer | AI & Cloud Enthusiast</h3>
 </div>
 
 ---
 
 ### **🌟 About Me**
-- 💻 **Full Stack Developer** with expertise in building scalable web applications using the **MERN stack**.
-- 📚 Currently diving deep into **Artificial Intelligence & Machine Learning**.
-- ⚡ Passionate about **problem-solving**, **optimizing performance**, and exploring **cutting-edge technologies**.
-- 🌱 Always learning and contributing to **open-source projects** in my free time.
+- 💻 **Software Engineer** specializing in **full-stack development, AI-driven automation, and cloud deployment**.
+- 🚀 Skilled in building **scalable applications** using **Next.js, Node.js, Prisma, and PostgreSQL**.
+- ⚡ Passionate about **optimizing performance**, **problem-solving**, and **leveraging AI** for automation.
+- 🌱 Always learning and contributing to **open-source projects** to push the boundaries of tech.
 
 ---
 
 ### **🛠️ Skills & Technologies**
 
 #### **💡 Programming Languages**
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Python, Java
-- **Databases**: SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+- JavaScript, TypeScript, Python, Java, C, C++, C#
 
 #### **🚀 Frameworks & Libraries**
-- **Frontend**: React, Next.js
-- **Backend**: Express.js, Flask
-- **Mobile**: Android Development (Java, XML)
+- **Frontend**: React.js, Next.js, Tailwind CSS, MUI
+- **Backend**: Node.js, Express.js, Prisma, REST APIs, WebSockets
+- **Mobile**: React Native, Android Development
 
-#### **☁️ DevOps & Cloud**
-- **Cloud Platforms**: AWS, Google Cloud
-- **DevOps Tools**: Docker, Kubernetes, CI/CD Pipelines
-- **Serverless**: AWS Lambda, Firebase
+#### **🛢️ Databases**
+- SQL (PostgreSQL, MySQL)
+- NoSQL (MongoDB)
+
+#### **☁️ Cloud & DevOps**
+- **Cloud Platforms**: AWS, Firebase, Vercel
+- **DevOps Tools**: Docker, Kubernetes, CI/CD, Serverless
 
 #### **🛠️ Development Tools**
 - **Version Control**: Git, GitHub
 - **IDEs**: VS Code, Android Studio
-- **Other Tools**: Postman, Figma
+- **Other Tools**: Postman, Jest, Mocha, Figma
 
 #### **📊 Methodologies**
 - Agile & Scrum
@@ -69,19 +70,31 @@
 
 ---
 
-### **🔥 Let's Build Something Amazing Together!**
-<div align="center">
-  <p>💡 Interested in collaborating on innovative projects? Feel free to reach out!</p>
-  <p>🚀 Let's turn ideas into reality and create impactful solutions.</p>
-</div>
+### **📌 Featured Projects**
+- **📝 AI-Powered Form Generator (SaaS)**
+  - AI-driven form automation with Prisma ORM & PostgreSQL.
+  - **Tech Stack**: Next.js, Node.js, PostgreSQL, Google Gemini AI, Prisma,Razorpay API.
+
+- **🍔 Food Ordering & Delivery App (100+ users)**
+  - Shopping cart, live tracking, Razorpay payment integration.
+  - **Tech Stack**: React.js, Node.js, MongoDB, Razorpay API.
+
+- **📱 Postify - Social Media Application**
+  - Real-time messaging, media sharing, and authentication.
+  - **Tech Stack**: Next.js, PostgreSQL, Prisma, Socket.IO.
+
+- **🎥 Video Conferencing App**
+  - Real-time video communication using WebRTC & Socket.IO.
+  - **Tech Stack**: Node.js, WebRTC, Express.js.
 
 ---
 
-### **📌 Featured Projects**
-- **🍔 Food Ordering & Delivery App**: Built with React, Node.js, and MongoDB. 
-- **📱 Postify - Social Media Backend**: Scalable backend with RESTful APIs and real-time messaging. 
-- **🎥 Video Conferencing App**: Real-time video communication using WebRTC and Socket.IO. 
+<div align="center">
+  <h3>🚀 Let's Build Something Amazing Together! 🚀</h3>
+  <p>💡 Open to collaborations and innovative ideas! Feel free to reach out.</p>
+</div>
 
+---
 
 <div align="center">
   <h3>Thanks for visiting my profile! 😊</h3>
