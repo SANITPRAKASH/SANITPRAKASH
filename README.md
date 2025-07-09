@@ -35,12 +35,12 @@
 
 #### **☁️ Cloud & DevOps**
 - **Cloud Platforms**: AWS, Firebase, Vercel
-- **DevOps Tools**: Docker, Kubernetes, CI/CD, Serverless
+- **DevOps Tools**: Docker, CI/CD
 
 #### **🛠️ Development Tools**
 - **Version Control**: Git, GitHub
 - **IDEs**: VS Code, Android Studio
-- **Other Tools**: Postman, Jest, Mocha, Figma
+- **Other Tools**: Postman, Jest, Cypress, Figma
 
 #### **📊 Methodologies**
 - Agile & Scrum
