@@ -117,18 +117,10 @@
 
 ---
 
-### **📈 GitHub Analytics**
+### **📈 LeetCode Analytics**
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Sanit_prakash?ext=heatmap" alt="LeetCode Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANITPRAKASH&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANITPRAKASH&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -145,7 +137,7 @@
   <a href="https://github.com/SANITPRAKASH" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://sanit-prakash.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Portfolio" />
   </a>
 </div>
