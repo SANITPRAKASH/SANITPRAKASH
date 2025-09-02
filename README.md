@@ -6,96 +6,169 @@
 
 <div align="center">
   <h1>👋 Hello, I'm Sanit Prakash</h1>
-  <h3>🚀 Software Engineer | Full Stack Developer | AI & Cloud Enthusiast</h3>
+  <h3>🚀 Full-Stack Developer | Software Engineer | AI & Cloud Enthusiast</h3>
+  <p>📍 Bengaluru, India | 🎓 Computer Science Engineering @ Don Bosco Institute of Technology</p>
 </div>
 
 ---
 
 ### **🌟 About Me**
-- 💻 **Software Engineer** specializing in **full-stack development, AI-driven automation, and cloud deployment**.
-- 🚀 Skilled in building **scalable applications** using **Next.js, Node.js, Prisma, and PostgreSQL**.
-- ⚡ Passionate about **optimizing performance**, **problem-solving**, and **leveraging AI** for automation.
-- 🌱 Always learning and contributing to **open-source projects** to push the boundaries of tech.
+
+- 💼 **Full-Stack Development Intern** at **ROOMAN TECHNOLOGIES** (Sept 2024 - Feb 2025)
+- 🎓 **B.E Computer Science Engineering** student with **8.5 CGPA** (2021-2025)
+- 💻 Specialized in building **scalable web and mobile applications** using modern tech stacks
+- 🔧 Expert in **React.js, Next.js, Node.js, Spring Boot**, and **cloud platforms**
+- 🚀 Passionate about **AI-driven automation**, **performance optimization**, and **real-world problem solving**
+- 🌱 Active contributor to **open-source projects** and continuous learner
 
 ---
 
-### **🛠️ Skills & Technologies**
+### **🛠️ Technical Skills**
 
-#### **💡 Programming Languages**
-- JavaScript, TypeScript, Python, Java, C, C++, C#
+#### **💻 Programming Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-#### **🚀 Frameworks & Libraries**
-- **Frontend**: React.js, Next.js, Tailwind CSS, MUI
-- **Backend**: Node.js, Express.js, Prisma, REST APIs, Supabase, WebSockets
-- **Mobile**: React Native, Android Development
+#### **🎨 Frontend Technologies**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### **🛢️ Databases**
-- SQL (PostgreSQL, MySQL)
-- NoSQL (MongoDB)
+#### **⚙️ Backend Technologies**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+#### **🗄️ Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 #### **☁️ Cloud & DevOps**
-- **Cloud Platforms**: AWS, Firebase, Vercel
-- **DevOps Tools**: Docker, CI/CD
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-#### **🛠️ Development Tools**
-- **Version Control**: Git, GitHub
-- **IDEs**: VS Code, Android Studio
-- **Other Tools**: Postman, Jest, Cypress, Figma
-
-#### **📊 Methodologies**
-- Agile & Scrum
-- Test-Driven Development (TDD)
+#### **🧪 Testing & Tools**
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### **📈 GitHub Stats**
+### **💼 Professional Experience**
+
+**Full-Stack Development Intern** @ **ROOMAN TECHNOLOGIES Pvt. Ltd** *(Sept 2024 - Feb 2025)*
+- 🏗️ Contributing to **Learning Management System (LMS)** using **MERN stack**
+- 🚀 Developing user dashboards, progress tracking, and role-based admin controls
+- ⚡ Optimized API performance and reduced response time by **35%**
+- 🧪 Implemented automated testing with **Cypress** and participated in agile development
+- 📊 Integrated third-party analytics tools for course tracking and reporting
+
+---
+
+### **🚀 Featured Projects**
+
+#### **🤖 AI-Powered Form Generator (SaaS)**
+- 📝 AI-driven form automation with **40% efficiency improvement**
+- ⚡ Optimized database queries reducing API response time by **35%**
+- 🐳 Dockerized and deployed on **Vercel**
+- **Tech Stack**: Next.js, Prisma, PostgreSQL, Supabase, Google Gemini AI, Razorpay
+
+#### **📱 Postify – Social Media Platform**
+- 💬 Real-time chat, notifications, and social features using **Socket.IO**
+- 🧪 Full CI/CD pipeline with **GitHub Actions**, **Jest**, and **Cypress**
+- 🔐 Complete authentication and user management system
+- **Tech Stack**: React.js, Redux, Node.js, MongoDB, Socket.IO, Docker
+
+#### **🛒 MultiVendor Ecommerce Platform**
+- 🏪 Production-ready multi-vendor platform with **Spring Boot**
+- 🤖 Integrated chatbot support and real-time analytics
+- 🔒 Secure authentication with **JWT** and **Spring Security**
+- **Tech Stack**: Spring Boot, MySQL, JWT, Razorpay, React.js
+
+#### **🍔 Food Delivery Application (100+ Users)**
+- 🛒 Shopping cart, live tracking, and payment integration
+- 💳 Razorpay payment gateway integration
+- 📱 Mobile-responsive design with real-time updates
+- **Tech Stack**: React.js, Node.js, MongoDB, Razorpay API
+
+---
+
+### **🏆 Achievements & Certifications**
+
+- 🥇 **HackerRank Java Certification** - Top global ranking
+- ☁️ **AWS Skill Builder Practitioner Essentials** - Cloud computing expertise
+- 💼 **Goldman Sachs Software Engineering (Forage)** - Governance analyst simulation
+- 📊 **JPMorgan Chase & Co. Agile (Forage)** - Agile methodology simulation
+- 🎓 **Udemy Web Development Bootcamp** - Full-stack development
+
+---
+
+### **📈 GitHub Analytics**
+
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Sanit_prakash?ext=heatmap" alt="GitHub Stats" />
+  <img src="https://leetcard.jacoblin.cool/Sanit_prakash?ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SANITPRAKASH&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANITPRAKASH&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
-### **🌐 Connect with Me**
+### **🌐 Connect With Me**
+
 <div align="center">
   <a href="https://www.linkedin.com/in/sanit-prakash" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:sanitprakash@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
   </a>
   <a href="https://github.com/SANITPRAKASH" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Portfolio" />
   </a>
 </div>
 
 ---
 
-### **📌 Featured Projects**
-- **📝 AI-Powered Form Generator (SaaS)**
-  - AI-driven form automation with Prisma ORM & PostgreSQL.
-  - **Tech Stack**: Next.js, Node.js, PostgreSQL, Google Gemini AI, Supabase , Prisma,Razorpay API.
+### **💡 Current Focus**
 
-- **🍔 Food Ordering & Delivery App (100+ users)**
-  - Shopping cart, live tracking, Razorpay payment integration.
-  - **Tech Stack**: React.js, Node.js, MongoDB, Razorpay API.
 
-- **📱 Postify - Social Media Application**
-  - Real-time messaging, media sharing, and authentication.
-  - **Tech Stack**: Next.js, PostgreSQL, Prisma, Socket.IO.
-
-- **🎥 Video Conferencing App**
-  - Real-time video communication using WebRTC & Socket.IO.
-  - **Tech Stack**: Node.js, WebRTC, Express.js.
+- 🌟 Building **AI-powered applications** with modern frameworks
+- 📚 Exploring **System Design** and **Cloud Architecture**
+- 🚀 Open to **collaborations** and **internship opportunities**
 
 ---
 
 <div align="center">
-  <h3>🚀 Let's Build Something Amazing Together! 🚀</h3>
-  <p>💡 Open to collaborations and innovative ideas! Feel free to reach out.</p>
+  <h3>🚀 "Code is like humor. When you have to explain it, it's bad." 🚀</h3>
+  <p>💫 Always excited to work on innovative projects and learn new technologies!</p>
+  <p>📬 Feel free to reach out for collaborations or just a tech chat!</p>
 </div>
 
 ---
 
 <div align="center">
-  <h3>Thanks for visiting my profile! 😊</h3>
+  <img src="https://komarev.com/ghpvc/?username=SANITPRAKASH&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
