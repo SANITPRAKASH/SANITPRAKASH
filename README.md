@@ -14,8 +14,6 @@
 
 ### **🌟 About Me**
 
-- 💼 **Full-Stack Development Intern** at **ROOMAN TECHNOLOGIES** (Sept 2024 - Feb 2025)
-- 🎓 **B.E Computer Science Engineering** student with **8.5 CGPA** (2021-2025)
 - 💻 Specialized in building **scalable web and mobile applications** using modern tech stacks
 - 🔧 Expert in **React.js, Next.js, Node.js, Spring Boot**, and **cloud platforms**
 - 🚀 Passionate about **AI-driven automation**, **performance optimization**, and **real-world problem solving**
