@@ -66,17 +66,6 @@
 
 ---
 
-### **💼 Professional Experience**
-
-**Full-Stack Development Intern** @ **ROOMAN TECHNOLOGIES Pvt. Ltd** *(Sept 2024 - Feb 2025)*
-- 🏗️ Contributing to **Learning Management System (LMS)** using **MERN stack**
-- 🚀 Developing user dashboards, progress tracking, and role-based admin controls
-- ⚡ Optimized API performance and reduced response time by **35%**
-- 🧪 Implemented automated testing with **Cypress** and participated in agile development
-- 📊 Integrated third-party analytics tools for course tracking and reporting
-
----
-
 ### **🚀 Featured Projects**
 
 #### **🤖 AI-Powered Form Generator (SaaS)**
